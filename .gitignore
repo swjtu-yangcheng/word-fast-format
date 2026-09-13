@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+
+# 输出产物
+*.docx
+*.bak-*.docx
+out/
+output/
